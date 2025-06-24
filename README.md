@@ -1,3 +1,5 @@
+<img src="image.png" alt="img">
+
 # Comet chat assingment
 
 A modern, responsive React application built with cutting-edge technologies and stunning 3D animations. This project showcases a partnership-focused platform with beautiful UI components and smooth interactions.
